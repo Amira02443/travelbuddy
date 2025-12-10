@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="1">
+        <username>demo</username>
+        <email>demo@travelbuddy.com</email>
+        <password>demo123</password>
+        <fullName>Demo User</fullName>
+        <createdAt>2024-01-01T00:00:00</createdAt>
+    </user>
+</users>

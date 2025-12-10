@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<places>
+    <!-- Paris Places -->
+    <place id="1">
+        <name>Place de la Concorde</name>
+        <city>Paris</city>
+        <address>75008 Paris, France</address>
+        <description>Major public square in Paris, France.</description>
+        <image>concorde.jpg</image>
+        <latitude>48.8656</latitude>
+        <longitude>2.3212</longitude>
+    </place>
+    <place id="2">
+        <name>Champ de Mars</name>
+        <city>Paris</city>
+        <address>2 Allée Adrienne Lecouvreur, 75007 Paris</address>
+        <description>Large public greenspace in Paris, located in the seventh arrondissement, between the Eiffel Tower to the northwest and the École Militaire to the southeast.</description>
+        <image>champdemars.jpg</image>
+        <latitude>48.8556</latitude>
+        <longitude>2.2986</longitude>
+    </place>
+
+    <!-- Rome Places -->
+    <place id="3">
+        <name>Piazza Navona</name>
+        <city>Rome</city>
+        <address>Piazza Navona, 00186 Roma RM, Italy</address>
+        <description>Piazza Navona is a public open space in Rome, Italy. It is built on the site of the Stadium of Domitian, built in the 1st century AD.</description>
+        <image>navona.jpg</image>
+        <latitude>41.8992</latitude>
+        <longitude>12.4731</longitude>
+    </place>
+    <place id="4">
+        <name>Pantheon</name>
+        <city>Rome</city>
+        <address>Piazza della Rotonda, 00186 Roma RM, Italy</address>
+        <description>Former Roman temple, now a Catholic church, in Rome, Italy, on the site of an earlier temple commissioned by Marcus Agrippa during the reign of Augustus.</description>
+        <image>pantheon.jpg</image>
+        <latitude>41.8986</latitude>
+        <longitude>12.4769</longitude>
+    </place>
+
+    <!-- Barcelona Places -->
+    <place id="5">
+        <name>Plaça de Catalunya</name>
+        <city>Barcelona</city>
+        <address>Plaça de Catalunya, 08002 Barcelona, Spain</address>
+        <description>Large square in central Barcelona that is generally considered to be both its city centre and the place where the old city and the 19th century-built Eixample meet.</description>
+        <image>catalunya.jpg</image>
+        <latitude>41.3870</latitude>
+        <longitude>2.1701</longitude>
+    </place>
+    <!-- Marrakech Places -->
+    <place id="6">
+        <name>Koutoubia</name>
+        <city>Marrakech</city>
+        <address>Medina Jamaa El Fena, 40000 Marrakesh, Morocco</address>
+        <description>The largest mosque in Marrakesh, Morocco.</description>
+        <image>koutoubia.jpg</image>
+        <latitude>31.6241</latitude>
+        <longitude>-7.9891</longitude>
+    </place>
+</places>

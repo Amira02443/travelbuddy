@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activities>
+    <!-- Paris Activities -->
+    <activity id="1">
+        <name>Visite Tour Eiffel</name>
+        <city>Paris</city>
+        <type>landmark</type>
+        <duration>3</duration>
+        <cost>26.80</cost>
+        <rating>4.8</rating>
+        <description>La tour emblématique de Paris avec une vue panoramique sur la ville</description>
+        <timeSlot>morning</timeSlot>
+        <image>eiffel.jpg</image>
+    </activity>
+    <activity id="2">
+        <name>Musée du Louvre</name>
+        <city>Paris</city>
+        <type>museum</type>
+        <duration>4</duration>
+        <cost>17.00</cost>
+        <rating>4.9</rating>
+        <description>Le plus grand musée d'art au monde, abritant la Joconde</description>
+        <timeSlot>morning</timeSlot>
+        <image>louvre.jpg</image>
+    </activity>
+    <activity id="3">
+        <name>Croisière sur la Seine</name>
+        <city>Paris</city>
+        <type>experience</type>
+        <duration>1</duration>
+        <cost>15.00</cost>
+        <rating>4.6</rating>
+        <description>Découvrez Paris depuis la Seine avec une croisière commentée</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>seine.jpg</image>
+    </activity>
+    <activity id="4">
+        <name>Quartier Montmartre</name>
+        <city>Paris</city>
+        <type>landmark</type>
+        <duration>3</duration>
+        <cost>0.00</cost>
+        <rating>4.7</rating>
+        <description>Balade dans le quartier des artistes avec le Sacré-Cœur</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>montmartre.jpg</image>
+    </activity>
+    <activity id="5">
+        <name>Restaurant Le Jules Verne</name>
+        <city>Paris</city>
+        <type>restaurant</type>
+        <duration>2</duration>
+        <cost>150.00</cost>
+        <rating>4.5</rating>
+        <description>Restaurant gastronomique au 2ème étage de la Tour Eiffel</description>
+        <timeSlot>evening</timeSlot>
+        <image>jules-verne.jpg</image>
+    </activity>
+    <activity id="6">
+        <name>Moulin Rouge</name>
+        <city>Paris</city>
+        <type>nightlife</type>
+        <duration>2</duration>
+        <cost>87.00</cost>
+        <rating>4.4</rating>
+        <description>Le célèbre cabaret parisien avec spectacle</description>
+        <timeSlot>evening</timeSlot>
+        <image>moulin-rouge.jpg</image>
+    </activity>
+    <activity id="7">
+        <name>Jardin du Luxembourg</name>
+        <city>Paris</city>
+        <type>nature</type>
+        <duration>2</duration>
+        <cost>0.00</cost>
+        <rating>4.7</rating>
+        <description>Magnifique jardin à la française au cœur de Paris</description>
+        <timeSlot>morning</timeSlot>
+        <image>luxembourg.jpg</image>
+    </activity>
+    <activity id="8">
+        <name>Galeries Lafayette</name>
+        <city>Paris</city>
+        <type>shopping</type>
+        <duration>3</duration>
+        <cost>0.00</cost>
+        <rating>4.3</rating>
+        <description>Grand magasin emblématique avec terrasse panoramique</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>galeries.jpg</image>
+    </activity>
+
+    <!-- Rome Activities -->
+    <activity id="9">
+        <name>Colisée</name>
+        <city>Rome</city>
+        <type>landmark</type>
+        <duration>3</duration>
+        <cost>18.00</cost>
+        <rating>4.9</rating>
+        <description>L'amphithéâtre antique emblématique de Rome</description>
+        <timeSlot>morning</timeSlot>
+        <image>colosseum.jpg</image>
+    </activity>
+    <activity id="10">
+        <name>Musées du Vatican</name>
+        <city>Rome</city>
+        <type>museum</type>
+        <duration>4</duration>
+        <cost>17.00</cost>
+        <rating>4.8</rating>
+        <description>Collection d'art exceptionnelle incluant la Chapelle Sixtine</description>
+        <timeSlot>morning</timeSlot>
+        <image>vatican.jpg</image>
+    </activity>
+    <activity id="11">
+        <name>Fontaine de Trevi</name>
+        <city>Rome</city>
+        <type>landmark</type>
+        <duration>1</duration>
+        <cost>0.00</cost>
+        <rating>4.7</rating>
+        <description>La plus célèbre fontaine de Rome, jetez une pièce!</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>trevi.jpg</image>
+    </activity>
+    <activity id="12">
+        <name>Trastevere</name>
+        <city>Rome</city>
+        <type>restaurant</type>
+        <duration>2</duration>
+        <cost>35.00</cost>
+        <rating>4.6</rating>
+        <description>Quartier animé avec d'excellents restaurants traditionnels</description>
+        <timeSlot>evening</timeSlot>
+        <image>trastevere.jpg</image>
+    </activity>
+    <activity id="13">
+        <name>Villa Borghese</name>
+        <city>Rome</city>
+        <type>nature</type>
+        <duration>3</duration>
+        <cost>0.00</cost>
+        <rating>4.5</rating>
+        <description>Parc magnifique avec jardins et galerie d'art</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>borghese.jpg</image>
+    </activity>
+
+    <!-- Barcelona Activities -->
+    <activity id="14">
+        <name>Sagrada Família</name>
+        <city>Barcelona</city>
+        <type>landmark</type>
+        <duration>2</duration>
+        <cost>26.00</cost>
+        <rating>4.9</rating>
+        <description>Chef-d'œuvre inachevé de Gaudí</description>
+        <timeSlot>morning</timeSlot>
+        <image>sagrada.jpg</image>
+    </activity>
+    <activity id="15">
+        <name>Parc Güell</name>
+        <city>Barcelona</city>
+        <type>landmark</type>
+        <duration>2</duration>
+        <cost>10.00</cost>
+        <rating>4.7</rating>
+        <description>Parc féerique créé par Gaudí avec vue sur la ville</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>guell.jpg</image>
+    </activity>
+    <activity id="16">
+        <name>La Rambla</name>
+        <city>Barcelona</city>
+        <type>shopping</type>
+        <duration>2</duration>
+        <cost>0.00</cost>
+        <rating>4.4</rating>
+        <description>Célèbre promenade avec artistes de rue et marchés</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>rambla.jpg</image>
+    </activity>
+    <activity id="17">
+        <name>Barceloneta Beach</name>
+        <city>Barcelona</city>
+        <type>nature</type>
+        <duration>4</duration>
+        <cost>0.00</cost>
+        <rating>4.5</rating>
+        <description>Plage populaire de Barcelone</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>barceloneta.jpg</image>
+    </activity>
+    <activity id="18">
+        <name>Musée Picasso</name>
+        <city>Barcelona</city>
+        <type>museum</type>
+        <duration>2</duration>
+        <cost>12.00</cost>
+        <rating>4.6</rating>
+        <description>Collection importante des œuvres de jeunesse de Picasso</description>
+        <timeSlot>morning</timeSlot>
+        <image>picasso.jpg</image>
+    </activity>
+
+    <!-- Marrakech Activities -->
+    <activity id="19">
+        <name>Place Jemaa el-Fna</name>
+        <city>Marrakech</city>
+        <type>landmark</type>
+        <duration>3</duration>
+        <cost>0.00</cost>
+        <rating>4.7</rating>
+        <description>Place animée au cœur de la médina avec spectacles</description>
+        <timeSlot>evening</timeSlot>
+        <image>jemaa.jpg</image>
+    </activity>
+    <activity id="20">
+        <name>Jardin Majorelle</name>
+        <city>Marrakech</city>
+        <type>nature</type>
+        <duration>2</duration>
+        <cost>14.00</cost>
+        <rating>4.8</rating>
+        <description>Jardin botanique créé par Jacques Majorelle</description>
+        <timeSlot>morning</timeSlot>
+        <image>majorelle.jpg</image>
+    </activity>
+    <activity id="21">
+        <name>Médina et Souks</name>
+        <city>Marrakech</city>
+        <type>shopping</type>
+        <duration>4</duration>
+        <cost>0.00</cost>
+        <rating>4.6</rating>
+        <description>Exploration des marchés traditionnels</description>
+        <timeSlot>morning</timeSlot>
+        <image>souk.jpg</image>
+    </activity>
+    <activity id="22">
+        <name>Palais de la Bahia</name>
+        <city>Marrakech</city>
+        <type>landmark</type>
+        <duration>2</duration>
+        <cost>7.00</cost>
+        <rating>4.5</rating>
+        <description>Magnifique palais du 19ème siècle</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>bahia.jpg</image>
+    </activity>
+    <activity id="23">
+        <name>Hammam Traditionnel</name>
+        <city>Marrakech</city>
+        <type>experience</type>
+        <duration>2</duration>
+        <cost>30.00</cost>
+        <rating>4.7</rating>
+        <description>Expérience relaxante dans un hammam marocain</description>
+        <timeSlot>afternoon</timeSlot>
+        <image>hammam.jpg</image>
+    </activity>
+    <activity id="24">
+        <name>Restaurant Dar Yacout</name>
+        <city>Marrakech</city>
+        <type>restaurant</type>
+        <duration>3</duration>
+        <cost>80.00</cost>
+        <rating>4.8</rating>
+        <description>Restaurant gastronomique marocain dans un riad</description>
+        <timeSlot>evening</timeSlot>
+        <image>dar-yacout.jpg</image>
+    </activity>
+</activities>

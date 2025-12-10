@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+    <city id="1">
+        <name>Paris</name>
+        <country>France</country>
+        <currency>EUR</currency>
+        <image>paris.jpg</image>
+        <description>La Ville Lumière, capitale de la France, célèbre pour sa tour Eiffel, ses musées et sa gastronomie</description>
+    </city>
+    <city id="2">
+        <name>Rome</name>
+        <country>Italie</country>
+        <currency>EUR</currency>
+        <image>rome.jpg</image>
+        <description>La Ville Éternelle, riche en histoire antique, art et cuisine italienne</description>
+    </city>
+    <city id="3">
+        <name>Barcelona</name>
+        <country>Espagne</country>
+        <currency>EUR</currency>
+        <image>barcelona.jpg</image>
+        <description>Ville côtière catalane célèbre pour l'architecture de Gaudí et sa vie nocturne</description>
+    </city>
+    <city id="4">
+        <name>Marrakech</name>
+        <country>Maroc</country>
+        <currency>MAD</currency>
+        <image>marrakech.jpg</image>
+        <description>Ville impériale marocaine avec médina, souks colorés et jardins magnifiques</description>
+    </city>
+</cities>

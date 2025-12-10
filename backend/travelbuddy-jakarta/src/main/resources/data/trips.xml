@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip id="1">
+        <userId>1</userId>
+        <city>Paris</city>
+        <title>Weekend à Paris</title>
+        <startDate>2024-06-15</startDate>
+        <endDate>2024-06-17</endDate>
+        <duration>3</duration>
+        <budget>500.00</budget>
+        <totalCost>320.50</totalCost>
+        <status>planned</status>
+        <createdAt>2024-01-15T10:30:00</createdAt>
+        <activityIds>
+            <activityId>1</activityId>
+            <activityId>2</activityId>
+            <activityId>3</activityId>
+        </activityIds>
+    </trip>
+</trips>
