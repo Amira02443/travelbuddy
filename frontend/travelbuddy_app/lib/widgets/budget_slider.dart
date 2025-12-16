@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-/// A stylish budget slider widget with visual feedback
 class BudgetSlider extends StatelessWidget {
   final double value;
   final double min;

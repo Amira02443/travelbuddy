@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:cached_network_image/cached_network_image.dart';
 import '../utils/constants.dart';
 import '../models/city.dart';
 import '../services/api_service.dart';
@@ -38,7 +37,6 @@ class _HomeScreenState extends State<HomeScreen> {
       setState(() {
         _isLoading = false;
       });
-      // Show demo data if API fails
       setState(() {
         _cities = [
           City(
@@ -46,24 +44,28 @@ class _HomeScreenState extends State<HomeScreen> {
               name: 'Paris',
               country: 'France',
               currency: 'EUR',
+              image: 'paris.jpg',
               description: 'La Ville Lumière'),
           City(
               id: 2,
               name: 'Rome',
               country: 'Italie',
               currency: 'EUR',
+              image: 'rome.jpg',
               description: 'La Ville Éternelle'),
           City(
               id: 3,
               name: 'Barcelona',
               country: 'Espagne',
               currency: 'EUR',
+              image: 'barcelona.jpg',
               description: 'Ville côtière catalane'),
           City(
               id: 4,
               name: 'Marrakech',
               country: 'Maroc',
               currency: 'MAD',
+              image: 'marrakech.jpg',
               description: 'Ville impériale marocaine'),
         ];
       });
@@ -240,15 +242,11 @@ class _HomeScreenState extends State<HomeScreen> {
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(20),
                 child: city.image != null && city.image!.isNotEmpty
-                    ? CachedNetworkImage(
-                        imageUrl: '${AppConstants.baseUrl}/images/${city.image}',
+                    ? Image.asset(
+                        'assets/images/${city.image}',
                         fit: BoxFit.cover,
-                        placeholder: (context, url) => Container(
-                          color: colorPair[0].withOpacity(0.3),
-                          child: const Center(
-                              child: CircularProgressIndicator(strokeWidth: 2)),
-                        ),
-                        errorWidget: (context, url, error) => _buildPattern(colorPair),
+                        errorBuilder: (context, error, stackTrace) =>
+                            _buildPattern(colorPair),
                       )
                     : _buildPattern(colorPair),
               ),

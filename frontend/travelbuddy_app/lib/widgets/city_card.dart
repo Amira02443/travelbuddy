@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../models/city.dart';
 
-/// A beautiful card widget to display a city destination
 class CityCard extends StatelessWidget {
   final City city;
   final VoidCallback onTap;
@@ -160,7 +159,6 @@ class CityCard extends StatelessWidget {
   }
 }
 
-/// Custom painter for subtle pattern background
 class _PatternPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {

@@ -4,7 +4,6 @@ C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbu
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\rest\UserResource.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\model\Itinerary.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\rest\TripResource.java
-C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\filter\CorsFilter.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\model\Users.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\repository\TripRepository.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\model\User.java
@@ -17,11 +16,13 @@ C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbu
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\service\ActivityService.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\rest\CityResource.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\model\Cities.java
+C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\filter\GlobalCorsFilter.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\repository\ActivityRepository.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\service\UserService.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\model\Activity.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\model\ScheduledActivity.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\repository\UserRepository.java
+C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\rest\ImageResource.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\model\Trip.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\soap\ItineraryWebService.java
 C:\Users\ASUS\travelbuddy\backend\travelbuddy-jakarta\src\main\java\com\travelbuddy\model\ItineraryRequest.java

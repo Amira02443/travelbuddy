@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../models/itinerary.dart';
 
-/// A timeline widget to display a day's activities
 class DayTimeline extends StatelessWidget {
   final ItineraryDay day;
   final String currencySymbol;

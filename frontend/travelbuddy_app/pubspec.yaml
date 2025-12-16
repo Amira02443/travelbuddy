@@ -44,4 +44,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   
- 
+  assets:
+    - assets/images/paris.jpg
+    - assets/images/rome.jpg
+    - assets/images/barcelona.jpg
+    - assets/images/marrakech.jpg
